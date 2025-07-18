@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\lyralearning\\lyrastartergame\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\unrealeditor\\inc\\shootertestsruntime\\uht\\shootertestsdevicepropertytester.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\lyralearning\\lyrastartergame\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\lyralearning\\lyrastartergame\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootertestsruntime\\definitions.shootertestsruntime.h",
+            "d:\\github\\lyralearning\\lyrastartergame\\plugins\\gamefeatures\\shootertests\\source\\shootertestsruntime\\private\\shootertestsdevicepropertytester.h",
+            "d:\\github\\lyralearning\\lyrastartergame\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\unrealeditor\\inc\\shootertestsruntime\\uht\\shootertestsdevicepropertytester.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

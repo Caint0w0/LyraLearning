@@ -1,0 +1,4 @@
+LyraStarterGame/Binaries/Win64/UnrealEditor-LyraGame.pdb filter=lfs diff=lfs merge=lfs -text
+LyraStarterGame/Content/Effects/Textures/Flipbooks/SmokeSwirl_3_Flipbook_CHANNELPACK.uasset filter=lfs diff=lfs merge=lfs -text
+LyraStarterGame/DerivedDataCache/Compressed.ddp filter=lfs diff=lfs merge=lfs -text
+LyraStarterGame/Intermediate/Build/Win64/x64/LyraEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch filter=lfs diff=lfs merge=lfs -text

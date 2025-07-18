@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\lyralearning\\lyrastartergame\\plugins\\gamefeatures\\shootertests\\source\\shootertestsruntime\\private\\utilities\\shootertestsinputtesthelper.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\lyralearning\\lyrastartergame\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\lyralearning\\lyrastartergame\\plugins\\gamefeatures\\shootertests\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootertestsruntime\\definitions.shootertestsruntime.h",
+            "d:\\github\\lyralearning\\lyrastartergame\\plugins\\gamefeatures\\shootertests\\source\\shootertestsruntime\\private\\utilities\\shootertestsinputtesthelper.h",
+            "d:\\ue_5.5\\engine\\plugins\\tests\\cqtestenhancedinput\\source\\cqtestenhancedinput\\public\\components\\inputtestactions.h",
+            "d:\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputaction.h",
+            "d:\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputmodifiers.h",
+            "d:\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "d:\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputmodifiers.generated.h",
+            "d:\\ue_5.5\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputtriggers.h",
+            "d:\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputtriggers.generated.h",
+            "d:\\ue_5.5\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputaction.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
